@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="SHEcrafts-1.0-SNAPSHOT.war">
+    <root id="archive" name="shecrafts.war">
       <element id="artifact" artifact-name="SHEcrafts:war exploded" />
     </root>
   </artifact>

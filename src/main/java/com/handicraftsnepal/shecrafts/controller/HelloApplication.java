@@ -1,4 +1,4 @@
-package com.handicraftsnepal.shecrafts;
+package com.handicraftsnepal.shecrafts.controller;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
